@@ -13,7 +13,12 @@ namespace Exercise04.classes
     public class shapes
     {
         private string _color = "";
+   public double area()
+        {
+            double A = 0;
+            return A;
 
+        }
         public string color
         {
             get { return _color; }
