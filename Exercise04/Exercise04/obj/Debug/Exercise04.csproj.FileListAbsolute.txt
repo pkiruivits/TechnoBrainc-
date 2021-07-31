@@ -1,0 +1,6 @@
+c:\users\jumoyot\documents\visual studio 2015\Projects\Exercise04\Exercise04\bin\Debug\Exercise04.exe.config
+c:\users\jumoyot\documents\visual studio 2015\Projects\Exercise04\Exercise04\bin\Debug\Exercise04.exe
+c:\users\jumoyot\documents\visual studio 2015\Projects\Exercise04\Exercise04\bin\Debug\Exercise04.pdb
+c:\users\jumoyot\documents\visual studio 2015\Projects\Exercise04\Exercise04\obj\Debug\Exercise04.csprojResolveAssemblyReference.cache
+c:\users\jumoyot\documents\visual studio 2015\Projects\Exercise04\Exercise04\obj\Debug\Exercise04.exe
+c:\users\jumoyot\documents\visual studio 2015\Projects\Exercise04\Exercise04\obj\Debug\Exercise04.pdb
